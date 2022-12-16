@@ -1,0 +1,1 @@
+$('a').text('uptofourmies').attr('href', "https://uptofourmies.fr")
